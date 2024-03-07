@@ -1,0 +1,17 @@
+.yellow{
+    padding-top: 3px;
+    font-size: 40px;
+    margin-left: 15vw;
+}
+body{
+    background-color: #AA9C9C;
+}
+.bluee{
+    width: 90px;
+    height: 40px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 25vw;
+    margin-top: 4vh;
+    font-size: 34px;
+}

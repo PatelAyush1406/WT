@@ -1,0 +1,44 @@
+.body{
+    background-color: #AA9C9C;
+}
+.hii{
+    width: 670px;
+    height: 335px;
+    position: absolute;
+    top: 50vh;
+   
+  }
+  .hello{
+    width: 828px;
+    height: 280px;
+    position: absolute;
+    top: 5vh;
+
+  }
+  .red{
+    width: 218px;
+    height: 57px;
+    background-color: #A8FF9A;
+    position: absolute;
+    left: 60vw;
+    top: 5vh;
+    font-size: 35px;
+  }
+  .redd{
+    width: 218px;
+    height: 57px;
+    background-color: #A8FF9A;
+    position: absolute;
+    left: 60vw;
+    top: 65vh;
+    font-size: 35px;
+  }
+  .reddd{
+    width: 218px;
+    height: 57px;
+    background-color: #A8FF9A;
+    position: absolute;
+    left: 60vw;
+    top: 85vh;
+    font-size: 35px;
+  }

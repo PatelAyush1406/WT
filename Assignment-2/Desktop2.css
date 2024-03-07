@@ -1,0 +1,30 @@
+body{
+    background-image: url('https://aptits.com/assets/images/workshop.jpg');
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh ;
+}
+.red{
+    width: 638px;
+    height: 747px;
+    background-color: #675454;
+    margin-left: 35vw;
+}
+.yellow{
+    padding-top: 3px;
+    font-size: 40px;
+}
+.box{
+    height: 45px;
+    width: 5vw;
+    margin-left: 300px;
+    background-color: rgb(247, 247, 247);
+    border-radius: 20px;
+    text-align: center;
+    font-size: 30px;
+   
+}
+.op{
+    font-size: 30px;
+    margin: 20px;
+    margin-left: 40px;
+}

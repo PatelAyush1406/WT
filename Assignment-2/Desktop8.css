@@ -1,0 +1,72 @@
+body{
+    background-color: #CEB0B0;
+}
+img{
+    width: 180px;
+    height: 154px;
+    margin-left: 20vw;
+}
+.blue{
+    width: 78px;
+    height: 78px;
+    margin-left: 2vw;
+}
+.red{
+    font-size: 45px;
+    margin-left: 650px;
+    position: absolute;
+    top: 6vh;
+}
+.yellow{
+    font-size: 30px;
+    padding: 3px;
+}
+.purple{
+    background-color: #391A1A;
+    height: 120px;
+    width: 1362px;
+    font-size: 45px;
+}
+.purplee{
+    background-color: #391A1A;
+    height: 120px;
+    width: 638px;
+    font-size: 45px;
+}
+.yelloww{
+    position: absolute;
+    margin-left: 40vw;
+    top: 45vh;
+    width: 250px;
+}
+.last{
+    width: 40px;
+    height: 45px;
+    margin-top: 10px;
+    padding: 3px;
+    margin-left: 10px;
+    position: absolute;
+    bottom: 2vw;
+}
+.lastt{
+    width: 40px;
+    height: 45px;
+    margin-top: 10px;
+    padding: 3px;
+    margin-left: 70px;
+    position: absolute;
+    bottom: 2vw;
+}
+.lasttt{
+    height: 84px;
+    width: 1160px;
+    background-color: #3E1B1B;
+    font-size: 35px;
+    color: aliceblue;
+    border-radius: 25px;
+    text-align: center;
+    justify-content: center;
+    position: absolute;
+    left: 8vw;
+    bottom: 2vw;
+}

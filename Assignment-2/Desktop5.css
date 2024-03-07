@@ -1,0 +1,74 @@
+.red ul{
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    gap: 90px;
+    background-color: #7482B2;
+    color: aliceblue;
+    height: 4vh;
+    font-size: 30px;
+  }
+  .red ul li {
+      list-style: none;
+  }
+  body{
+    background-color: #AA9C9C;
+  }
+  .yellow{
+    font-size: 30px;
+    width: 508px;
+    height: 168px;
+    margin-top: 140px;
+  }
+  .hello{
+    width: 828px;
+    height: 280px;
+    position: absolute;
+    top: 5vh;
+    left: 34vw;
+  }
+  .hii{
+    width: 670px;
+    height: 335px;
+    position: absolute;
+    top: 50vh;
+    left: 34vw;
+  }
+  .op{
+    font-size: 35px;
+    margin-left: 45vw;
+    width: 144px;
+    height: 63px;
+    background-color: #A8FF9A;
+    text-align: center;
+  }
+  .opp{
+    font-size: 35px;
+    margin-left: 55vw;
+    width: 160px;
+    height: 70px;
+    position: absolute;
+    top: 34vh;
+    background-color: #A8FF9A;
+    text-align: center;
+  }
+  .vp{
+    font-size: 35px;
+    margin-left: 45vw;
+    width: 144px;
+    height: 63px;
+    background-color: #A8FF9A;
+    text-align: center;
+    position: absolute;
+    bottom: 8vh;
+  }
+  .ap{
+    font-size: 35px;
+    margin-left: 55vw;
+    width: 160px;
+    height: 70px;
+    position: absolute;
+    bottom: 8vh;
+    background-color: #A8FF9A;
+    text-align: center;
+  }

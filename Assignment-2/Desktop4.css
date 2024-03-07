@@ -1,0 +1,39 @@
+.red ul{
+  display: flex;
+  margin: 0px;
+  padding: 0px;
+  gap: 90px;
+  background-color: #7482B2;
+  color: aliceblue;
+  height: 4vh;
+  font-size: 30px;
+}
+.red ul li {
+    list-style: none;
+}
+.blue{
+    position: absolute;
+    margin-left: 40vw;
+    font-size: 86px;
+    margin-top: 60px;
+    color: #1955EE;
+}
+img{
+ height: 416px;
+ width: 649px;
+ 
+}
+.yellow{
+
+    
+    font-size: 86px;
+    margin-top: 60px;
+    color: #1955EE;
+}
+.rgb{
+    height: 414px;
+    width: 829px;
+    position: absolute;
+    margin-left: 20vw;
+    top: 250px;
+}
